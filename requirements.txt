@@ -1,0 +1,8 @@
+openai
+bs4
+requests
+langchain
+tiktoken
+faiss-cpu
+flask
+flask_cors
